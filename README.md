@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khedr Ali</h1>
-<h3 align="center">Software Engineer | Java Developer | Android Developer</h3>
+<h3 align="center">Software Engineer | Mobile Developer | Android & React Native Learner</h3>
 
 <p align="center">
-Passionate about building software solutions, Android applications, and database-driven systems. I enjoy solving real-world problems through clean code, continuous learning, and modern software development practices.
+Passionate about building mobile applications and software solutions. I have a background in Android development using Java and Android Studio, with experience in databases and building practical software projects. Currently, I am learning React Native and modern mobile development technologies to create efficient and user-friendly applications.
 </p>
 
 <p align="center">
@@ -23,29 +23,16 @@ Passionate about building software solutions, Android applications, and database
 
 # 👨‍💻 About Me
 
-- 💻 Software Engineer
-- 🎓 Bachelor's Degree in Computer Science & Engineering (Software Engineering)
-- 🌱 Currently improving my skills in **Java**, **SQL**, **Android Development**, and **Backend Development**.
-- 📱 Interested in Mobile Application Development.
-- 🗄️ Passionate about Database Design and Software Architecture.
-- 🤝 Open to Software Engineering opportunities.
-- 💬 Ask me about Java, SQL, Android, OOP, and Software Development.
-- ⚡ I enjoy learning new technologies and building practical software solutions.
-
----
-
-# 💼 Experience
-
-## Co-op Software Engineering Trainee
-**Al-Halifa General Contracting**
-
-**September 2024 – December 2024**
-
-- Assisted IT and software support activities.
-- Participated in infrastructure and technical support.
-- Improved documentation and operational processes.
-- Supported software installation and system configuration.
-- Collaborated with teams to solve technical issues.
+- 💻 Software Engineer focused on Mobile Application Development.
+- 🎓 Bachelor's Degree in Computer Science & Engineering (Software Engineering).
+- 📱 Familiar with Android Development using Java and Android Studio.
+- 🌱 Currently learning **JavaScript**, **React**, and **React Native** to build modern cross-platform mobile applications.
+- 🗄️ Interested in Database Design, SQLite, and building data-driven applications.
+- 🎮 Have experience building small software projects and simple games as part of my learning journey.
+- 🧩 Passionate about clean code, problem solving, and continuous learning.
+- 🤝 Open to Software Engineering and Mobile Development opportunities.
+- 💬 Ask me about Java, Android Development, SQL, SQLite, OOP, and Mobile Applications.
+- ⚡ Always exploring new technologies and improving my development skills.
 
 ---
 
@@ -53,15 +40,15 @@ Passionate about building software solutions, Android applications, and database
 
 ## 📊 Database-Driven Accounting System
 
-A Java-based accounting system that provides database management and reporting capabilities.
+A Java-based accounting system designed to manage financial data and provide organized reports.
 
 ### Features
 
 - CRUD Operations
 - Database Management
-- Export Reports to Microsoft Excel
 - Data Organization
-- Reporting System
+- Report Generation
+- Export Reports to Microsoft Excel
 
 **Technologies**
 
@@ -79,10 +66,10 @@ A mobile media player application developed using Android Studio.
 ### Features
 
 - Audio & Video Playback
-- SQLite Database
+- SQLite Database Integration
 - User-Friendly Interface
 - Performance Optimization
-- Debugging & Error Handling
+- Debugging and Error Handling
 
 **Technologies**
 
@@ -92,10 +79,37 @@ A mobile media player application developed using Android Studio.
 
 ---
 
+## 🎮 Small Game Projects
+
+Developed simple games as part of learning programming concepts and improving problem-solving skills.
+
+**Technologies**
+
+- Java
+- Object-Oriented Programming (OOP)
+- Programming Fundamentals
+
+---
+
+## 📱 React Native Applications (Learning & Development)
+
+Currently learning React Native to build modern cross-platform mobile applications.
+
+**Technologies**
+
+- JavaScript
+- React
+- React Native
+- Mobile UI Development
+
+---
+
 # 🛠 Languages & Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=androidstudio" />
 <img src="https://skillicons.dev/icons?i=sqlite" />
 <img src="https://skillicons.dev/icons?i=mysql" />
@@ -112,9 +126,17 @@ A mobile media player application developed using Android Studio.
 ### Programming
 
 - Java
+- JavaScript (Learning)
 - Object-Oriented Programming (OOP)
+- Software Development Principles
+
+### Mobile Development
+
 - Android Development
-- Software Development
+- Android Studio
+- React Native (Learning)
+- User Interface Development
+- Application Debugging
 
 ### Databases
 
@@ -123,23 +145,21 @@ A mobile media player application developed using Android Studio.
 - Database Design
 - Database Management
 
-### IT & Technical Support
+### Software Concepts
 
-- Technical Troubleshooting
-- End User Support
-- Operating Systems
-- Software Installation
-- System Configuration
+- Clean Code
+- Problem Solving
+- Software Architecture Fundamentals
+- Data Structures Fundamentals
 
 ### Soft Skills
 
-- Problem Solving
 - Analytical Thinking
 - Communication
 - Teamwork
 - Adaptability
 - Time Management
-- Fast Learner
+- Fast Learning
 - Critical Thinking
 
 ---
