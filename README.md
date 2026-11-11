@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khedr Ali</h1>
-<h3 align="center">Software Engineer | Mobile Developer | Android & React Native Learner</h3>
+<h3 align="center">Software Engineer | Mobile Developer | Android & React Native </h3>
 
 <p align="center">
 Passionate about building mobile applications and software solutions. I have a background in Android development using Java and Android Studio, with experience in databases and building practical software projects. Currently, I am learning React Native and modern mobile development technologies to create efficient and user-friendly applications.
